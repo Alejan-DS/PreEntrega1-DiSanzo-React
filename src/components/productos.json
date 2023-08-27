@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"nombre": "ALMOHADILLAS PINK + VARILLA ",
+		"precio": 6000,
+		"imagen": "../assets/img/almo-pink.webp",
+		"description1": "Accesorios de audífonos inalámbricos con micrófono G735.",
+		"description2": "Para audífonos inalámbricos con micrófono G735 para gaming de The Aurora Collection. Hazlos más tuyos con almohadillas y una varilla de micrófono.Audífonos inalámbricos con micrófono G735 para juegos"
+	},
+	{
+		"id": 2,
+		"nombre": "AURICULARES G433",
+		"precio": 22000,
+		"imagen": "../assets/img/g433-gallery-camo-1.webp",
+		"description1": "Auriculares con cable y sonido envolvente 7.1 para gaming.",
+		"description2": "Estilo ligero, duradero y cómodo. Disfruta de sonido y comunicaciones de voz nitidísimas con transductores PRO-G de 40 mm y sonido envolvente de próxima generación. Los G433 poseen certificación Discord para un óptimo desempeño de audio.Puerto USB para usar con PC."
+	},
+	{
+		"id": 3,
+		"nombre": "AURICULARES G433 RED",
+		"precio": 25000,
+		"imagen": "../assets/img/g433-gallery-red-1.webp",
+		"description1": "Auriculares con cable y sonido envolvente 7.1 para gaming.",
+		"description2": "Estilo ligero, duradero y cómodo. Disfruta de sonido y comunicaciones de voz nitidísimas con transductores PRO-G de 40 mm y sonido envolvente de próxima generación. Los G433 poseen certificación Discord para un óptimo desempeño de audio.Puerto USB para usar con PC."
+	},
+	{
+		"id": 4,
+		"nombre": "TECLADO G413",
+		"precio": 18000,
+		"imagen": "../assets/img/g413-.webp",
+		"description1": "Teclado mecánico con retroiluminación para gaming.",
+		"description2": "Diseño para un desempeño avanzado con las funciones adecuadas. La compacta carcasa de aleación de aluminio tiene, entre otras cosas, paso de USB, teclas con retroiluminación e interruptores mecánicos Romer-G."
+	},
+    {
+		"id": 5,
+		"nombre": "TECLADO MECÁNICO",
+		"precio": 16000,
+		"imagen": "../assets/img/tecladomeca.png",
+		"description1": "Teclado inalámbrico para gaming.",
+		"description2": "De The Aurora Collection, el G715 es un teclado inalámbrico LIGHTSPEED y Bluetooth® para juegos diseñado para ofrecer confort con el mullido reposamanos incluido. Totalmente equipado con iluminación RGB y los interruptores mecánicos GX que tú elijas."
+	},
+    {
+		"id": 6,
+		"nombre": "MOUSE PAD WIHTE",
+		"precio": 2000,
+		"imagen": "../assets/img/mouse-pad-white.webp",
+		"description1": "Alfombrilla rígida para gaming.",
+		"description2": "Tamaño grande, 400 x 460 mm, para más espacio y movimiento del ratón. La base de goma permanece en su lugar para un juego intenso. La textura de la superficie está optimizada para ratones Logitech G y el máximo rendimiento de los juegos."
+	},
+    {
+		"id": 7,
+		"nombre": "MOUSE G203 BLUE",
+		"precio": 33000,
+		"imagen": "../assets/img/g203-blue-1.webp",
+		"description1": "Mouse gaming.",
+		"description2": "Aprovecha al máximo tu tiempo de juego con el G203, un mouse para juegos disponible en una variedad de vibrantes colores. Con la tecnología LIGHTSYNC, un sensor para juegos y un diseño clásico de 6 botones, animarás tu acción y tu espacio."
+	},
+    {
+		"id": 8,
+		"nombre": "MOUSE G203 LILA",
+		"precio": 33000,
+		"imagen": "../assets/img/g203lila.png",
+		"description1": "Mouse gaming.",
+		"description2": "Aprovecha al máximo tu tiempo de juego con el G203, un mouse para juegos disponible en una variedad de vibrantes colores. Con la tecnología LIGHTSYNC, un sensor para juegos y un diseño clásico de 6 botones, animarás tu acción y tu espacio."
+	}
+]
