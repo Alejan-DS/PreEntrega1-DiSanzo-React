@@ -1,39 +1,25 @@
 import "./App.css";
 import { ItemListContainer } from "./components/ItemListContainer";
 import { NavBar } from "./components/NavBar";
-import Button from 'react-bootstrap/Button';
-import { MyProducts } from "./components/MyProducts";
-import React, { useState } from 'react';
+// import Button from 'react-bootstrap/Button';
+// import React, { useState } from 'react';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
 
-  const [productosVisibles, setProductosVisibles] = useState(false);
-
-  const alternarProductos = () => {
-    setProductosVisibles(!productosVisibles);
-  };
 
   const alertar = () => alert("Usted esta en Logitech G !!!!!");
   return (
-    <>
+    <BrowserRouter>
       <NavBar />
+      <Routes>
 
-      <div className="msj">
-        <ItemListContainer greeting="Bienvenido a Logitch G !" click={alertar} />
-      </div>
+      <Route path="/" element={<ItemListContainer greeting="Bienvenido a Logitch G !" click={alertar}/>}></Route>
+      <Route path="/category/:id" element={<ItemListContainer greeting="Bienvenido a Logitch G !" click={alertar}/>}></Route>
+      <Route path="/item/:id" element={<ItemListContainer greeting="Bienvenido a Logitch G !" click={alertar}/>}></Route>
+      </Routes>
 
-      <div>
-        <h1>Aplicación de Productos</h1>
-        <Button variant="primary" onClick={alternarProductos}>
-          {productosVisibles ? 'Ocultar Todos' : 'Mostrar Todos'}
-        </Button>
-        {productosVisibles && (
-          <div>
-            <MyProducts />
-          </div>
-        )}
-      </div>
-    </>
+    </BrowserRouter>
   );
 }
 

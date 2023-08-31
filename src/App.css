@@ -5,3 +5,8 @@ img{
 .msj{
   text-align: center;
 }
+
+.contador span{
+  padding: 1rem;
+
+}
