@@ -1,0 +1,36 @@
+.container--navbar {
+	width: 100%;
+	min-height: 70px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	border-bottom: 1px solid rgba(128, 128, 128, 0.432);
+}
+.navbar--logo {
+	font-size: 50px;
+	text-decoration: none;
+}
+.navbar--ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 2rem;
+}
+.navbar--ul--li {
+	list-style: none;
+}
+.navbar--ul--li--a {
+	font-family:'Times New Roman', Times, serif;
+	font-size: 20px;
+	text-decoration: none;
+	margin: 0px 10px;
+	color: black;
+	transition: all 0.2s linear;
+}
+
+.navbar--ul--li--a:hover {
+	color: rebeccapurple;
+	transition: all 0.2s linear;
+}

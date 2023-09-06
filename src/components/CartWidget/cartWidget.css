@@ -1,0 +1,22 @@
+.container--cartWidget {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 40px;
+}
+.cart--icon img {
+	height:3.5rem;
+}
+.cart--quantity {
+	width: 25px;
+	height: 25px;
+	border: 1px solid rgb(30, 129, 171);
+	border-radius: 50%;
+	line-height: 20px;
+	position: absolute;
+	bottom:17px;
+	left:50px;
+	font-size: 18px;
+	font-weight: bold;
+}

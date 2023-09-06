@@ -1,0 +1,27 @@
+.container--ItemListContainer {
+	background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 10px;
+}
+.container--cards {
+	max-width: 1500px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.itemListContainer--title {
+	font-family:'Times New Roman', Times, serif;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 0px;
+	font-size: 40px;
+	color: black;
+}

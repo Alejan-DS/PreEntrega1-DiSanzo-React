@@ -1,3 +1,4 @@
+
 img{
   height: 5rem;
 }
@@ -9,4 +10,13 @@ img{
 .contador span{
   padding: 1rem;
 
+}
+
+.container-app {
+	width: calc(100vw - (100vw - 100%));
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
 }

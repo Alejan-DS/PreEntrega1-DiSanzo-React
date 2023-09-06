@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"nombre": "ALMOHADILLAS PINK + VARILLA ",
+		"titulo": "ALMOHADILLAS PINK + VARILLA ",
 		"precio": 6000,
 		"imagen": "almo-pink.webp",
 		"description1": "Accesorios de audífonos inalámbricos con micrófono G735.",
@@ -11,7 +11,7 @@
 	},
 	{
 		"id": 2,
-		"nombre": "AURICULARES G433",
+		"titulo": "AURICULARES G433",
 		"precio": 22000,
 		"imagen": "g433-gallery-camo-1.webp",
 		"description1": "Auriculares con cable y sonido envolvente 7.1 para gaming.",
@@ -21,7 +21,7 @@
 	},
 	{
 		"id": 3,
-		"nombre": "AURICULARES G433 RED",
+		"titulo": "AURICULARES G433 RED",
 		"precio": 25000,
 		"imagen": "g433-gallery-red-1.webp",
 		"description1": "Auriculares con cable y sonido envolvente 7.1 para gaming.",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 4,
-		"nombre": "TECLADO G413",
+		"titulo": "TECLADO G413",
 		"precio": 18000,
 		"imagen": "g413-.webp",
 		"description1": "Teclado mecánico con retroiluminación para gaming.",
@@ -41,7 +41,7 @@
 	},
     {
 		"id": 5,
-		"nombre": "TECLADO MECÁNICO",
+		"titulo": "TECLADO MECÁNICO",
 		"precio": 16000,
 		"imagen": "tecladomeca.png",
 		"description1": "Teclado inalámbrico para gaming.",
@@ -51,7 +51,7 @@
 	},
     {
 		"id": 6,
-		"nombre": "MOUSE PAD WIHTE",
+		"titulo": "MOUSE PAD WIHTE",
 		"precio": 2000,
 		"imagen": "mouse-pad-white.webp",
 		"description1": "Alfombrilla rígida para gaming.",
@@ -61,7 +61,7 @@
 	},
     {
 		"id": 7,
-		"nombre": "MOUSE G203 BLUE",
+		"titulo": "MOUSE G203 BLUE",
 		"precio": 33000,
 		"imagen": "g203-blue-1.webp",
 		"description1": "Mouse gaming.",
@@ -71,7 +71,7 @@
 	},
     {
 		"id": 8,
-		"nombre": "MOUSE G203 LILA",
+		"titulo": "MOUSE G203 LILA",
 		"precio": 33000,
 		"imagen": "g203lila.png",
 		"description1": "Mouse gaming.",
